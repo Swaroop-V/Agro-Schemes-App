@@ -10,7 +10,7 @@ export const Home: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <Sprout className="h-20 w-20 mx-auto text-emerald-400 mb-6" />
           <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight mb-4">
-            Welcome to AgroSchemesApp
+            Welcome to AgroSchemes
           </h1>
           <p className="text-xl text-emerald-200 max-w-2xl mx-auto mb-8">
             Empowering farmers with comprehensive crop information, pesticide guidance, and access to government aided schemes.

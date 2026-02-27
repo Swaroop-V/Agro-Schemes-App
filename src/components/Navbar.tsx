@@ -25,7 +25,7 @@ export const Navbar: React.FC = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
               <Sprout className="h-8 w-8 text-emerald-300" />
-              <span className="font-bold text-xl tracking-tight">AgroSchemesApp</span>
+              <span className="font-bold text-xl tracking-tight">AgroSchemes</span>
             </Link>
           </div>
           <div className="flex items-center space-x-4">
