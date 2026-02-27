@@ -1,0 +1,5 @@
+{
+  "name": "AgroWebApp",
+  "description": "A web application for farmers to view crop details, pesticide info, and apply for government schemes.",
+  "requestFramePermissions": []
+}
