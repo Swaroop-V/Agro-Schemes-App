@@ -1,10 +1,10 @@
-# AgroWebApp 🌾
+# AgroSchemesApp 🌾
 
-AgroWebApp is a comprehensive web platform designed to bridge the gap between farmers and agricultural resources. It provides farmers with detailed crop information, pesticide guidelines, and a streamlined process to discover and apply for government-aided agricultural schemes.
+AgroSchemesApp is a comprehensive web platform designed to bridge the gap between farmers and agricultural resources. It provides farmers with detailed crop information, pesticide guidelines, and a streamlined process to discover and apply for government-aided agricultural schemes.
 
 ## 🌟 Features
 
-### For Farmers (Users)
+### For Farmers (Users) 
 *   **Authentication:** Secure registration and login.
 *   **Crop Information:** Browse and search through extensive crop details, including suitable seasons, locations, and recommended pesticides.
 *   **Government Schemes:** Explore available financial aid and agricultural schemes.
@@ -50,7 +50,7 @@ Detailed documentation for the project architecture and design can be found in t
 ### 1. Clone the Repository
 ```bash
 git clone <your-repository-url>
-cd agro-web-app
+cd agro-schemes-app
 ```
 
 ### 2. Install Dependencies
